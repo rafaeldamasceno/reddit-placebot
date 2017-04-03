@@ -10,13 +10,13 @@ Podes consultar como se encontra atualmente [aqui](https://www.reddit.com/place?
 - Extraír o bot para onde preferirem.
 - Na pasta do bot, renomear o ficheiro `users.example.json` para `users.json`.
 - Abrir o `users.json` e inserir as credenciais do Reddit da seguinte forma:
-  - **1 utilizador:**
+- **1 utilizador:**
 ```
 {
   "username": "password"
 }
 ```
-  - **2 utilizadores ou mais:**
+- **2 utilizadores ou mais:**
 ```
 {
   "username1": "password1",
