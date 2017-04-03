@@ -27,6 +27,8 @@ Este é o bot usado para pintar o espaço de Portugal no [/r/place](https://www.
 - Instalar as dependências do bot (ele instala na própria pasta). Em **Windows**, abrir o ficheiro `install.bat`. Em **Linux/macOS**, executar o `install.sh`.
 - Iniciar o bot. Em **Windows**, abrir o ficheiro `start.bat`. Em **Linux/macOS**, executar o `start.sh`.
 
+__NOTA__: Não é necessário atualizar a imagem a pintar, dado que o bot verifica automaticamente a imagem disponível neste repositório e usa-a. Será sempre a imagem mais atualizada.
+
 ## Imagem a pintar
 
 Caso tenhas a tua própria instalação do `reddit-placebot`, podes configurar o `REMOTE_TARGET_URL` para `https://github.com/rafaeldamasceno/reddit-placebot/raw/master/target.bmp`.
