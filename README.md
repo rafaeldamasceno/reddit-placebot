@@ -21,11 +21,19 @@ Este é o bot usado para pintar o espaço de Portugal no [/r/place](https://www.
   "username1": "password1",
   "username2": "password2",
   ...
-  "usernamen": "passwordn"
+  "usernameX": "passwordX"
 }
 ```
 - Instalar as dependências do bot (ele instala na própria pasta). Em **Windows**, abrir o ficheiro `install.bat`. Em **Linux/macOS**, executar o `install.sh`.
 - Iniciar o bot. Em **Windows**, abrir o ficheiro `start.bat`. Em **Linux/macOS**, executar o `start.sh`.
+
+## Imagem a pintar
+
+Caso tenhas a tua própria instalação do `reddit-placebot`, podes configurar o `REMOTE_TARGET_URL` para `https://github.com/rafaeldamasceno/reddit-placebot/raw/master/target.bmp`.
+
+A imagem é, atualmente, a seguinte (os [píxeis](https://www.priberam.pt/dlpo/pixel) rosa `#ff00ff` são ignorados):
+
+![Imagem do /r/portugal](https://github.com/rafaeldamasceno/reddit-placebot/raw/master/target.bmp)
 
 ## License
 
