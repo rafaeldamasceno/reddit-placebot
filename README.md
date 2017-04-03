@@ -1,6 +1,7 @@
 # /r/portugal placebot
 
 Este é o bot usado para pintar o espaço de Portugal no [/r/place](https://www.reddit.com/r/place/).
+Podes consultar como se encontra atualmente [aqui](https://www.reddit.com/place?webview=true#x=722&y=412).
 
 ## Instruções de instalação
 
