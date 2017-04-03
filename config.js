@@ -15,7 +15,7 @@ module.exports = {
 
   // Wait until these amount of accounts are available
   // and paint pixels at the same time
-  bundleAccounts: 10,
+  bundleAccounts: 1,
 
   // The PLACEBOT mark in the world <3
   targetStartX: 0,
