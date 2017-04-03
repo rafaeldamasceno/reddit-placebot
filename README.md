@@ -9,7 +9,7 @@ Podes consultar como se encontra atualmente [aqui](https://www.reddit.com/place?
 - Fazer download do bot [aqui](https://github.com/rafaeldamasceno/reddit-placebot/archive/master.zip).
 - Extraír o bot para onde preferirem.
 - Na pasta do bot, renomear o ficheiro `users.example.json` para `users.json`.
-- Abrir o `users.json` e inserir as credenciais do Reddit da seguinte forma:
+- Abrir o `users.json` com um editor de texto (Bloco de notas, Notepad++) e inserir as credenciais do Reddit da seguinte forma:
 - **1 utilizador:**
 ```
 {
