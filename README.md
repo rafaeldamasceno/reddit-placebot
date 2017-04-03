@@ -5,18 +5,18 @@ Podes consultar como se encontra atualmente [aqui](https://www.reddit.com/place?
 
 ## Instruções de instalação
 
-- Descarregar e instalar o [NodeJS](https://nodejs.org).
+- Descarregar e instalar o [NodeJS](https://nodejs.org). Em **Linux/macOS**, o método de instalação preferido é [este](https://nodejs.org/en/download/package-manager/).
 - Fazer download do bot [aqui](https://github.com/rafaeldamasceno/reddit-placebot/archive/master.zip).
 - Extraír o bot para onde preferirem.
 - Na pasta do bot, renomear o ficheiro `users.example.json` para `users.json`.
 - Abrir o `users.json` e inserir as credenciais do Reddit da seguinte forma:
-- **1 utilizador:**
+  - **1 utilizador:**
 ```
 {
   "username": "password"
 }
 ```
-- **2 utilizadores ou mais:**
+  - **2 utilizadores ou mais:**
 ```
 {
   "username1": "password1",
