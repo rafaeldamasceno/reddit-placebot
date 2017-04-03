@@ -5,7 +5,7 @@ Podes consultar como se encontra atualmente [aqui](https://www.reddit.com/place?
 
 ## Instruções de instalação
 
-- Descarregar e instalar o [NodeJS](https://nodejs.org). Em **Linux/macOS**, o método de instalação preferido é [este](https://nodejs.org/en/download/package-manager/).
+- Descarregar e instalar o [NodeJS](https://nodejs.org). Em **Linux/macOS**, para instalarem através de um gestor de pacotes, sigam [estas](https://nodejs.org/en/download/package-manager/) instruções.
 - Fazer download do bot [aqui](https://github.com/rafaeldamasceno/reddit-placebot/archive/master.zip).
 - Extraír o bot para onde preferirem.
 - Na pasta do bot, renomear o ficheiro `users.example.json` para `users.json`.
